@@ -1,0 +1,12 @@
+{
+  "owner": {
+    "username": "wobbashop",
+    "email": "oscardearmas2012@gmail.com"
+  },
+  "description": "Wobba Shop",
+  "domain": "is-a.dev",
+  "subdomain": "wobbashop",
+  "records": {
+    "CNAME": "wobbashop.github.io"
+  }
+}
